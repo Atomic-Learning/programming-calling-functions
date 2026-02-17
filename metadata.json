@@ -1,0 +1,20 @@
+{
+    "title": "Programming: Calling Functions",
+    "slug": "programming-calling-functions",
+    "description": "How to call built-in functions using parentheses, pass arguments, and use return values.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "programming"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "programming-variables",
+        "programming-expressions",
+        "programming-comments"
+    ],
+    "related": [
+        "programming-defining-functions"
+    ]
+}
